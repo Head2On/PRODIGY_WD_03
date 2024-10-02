@@ -6,3 +6,5 @@ prervent further clicks after a win or draw.
 Responsive designe for both mobile and desktop.
 
 Working in progress mode...
+
+please give a Star...⭐⭐⭐
